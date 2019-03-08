@@ -1,0 +1,1 @@
+# OpenCV crash course C++
